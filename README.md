@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lawrencecllement
 - 👀 I’m interested in Building Applications mainly for Business and Finance
-- 🌱 I’m currently learning MERN Stack, to be a competent full stack developer
-- 💞️ I’m looking to collaborate on any project(s) that can reach a vast # of people 
+- 🌱 I’m currently learning python, R, and the tools and technologies to work with Data
+- 💞️ I’m would like to work in the FinTech Industry
 - My email is lawrencecllement@gmail.com
 
 <!---
