@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lawrencecllement
-- 👀 I’m interested in Building Applications mainly for Business and Finance
-- 🌱 I’m currently learning python, JavaScript, HTML, CSS, React, Node, Pandas, NumPy, Midjourney to create full progressivee CRUD applications
-- 💞️ I would like to work in the Finance sector of a business, or the Finance industry (FinTech, Blockchain, Real Estate Tech, etc.)
+- 👀 I’m interested in Building Applications mainly for Fintech and Blockchain Applications
+- 🌱 I’m currently learning python, JavaScript, HTML, CSS, React, Node, Pandas, NumPy, Midjourney to create full stack CRUD applications
+- 💞️ I would like to work in the FinTech
 - My email is lawrencecllement@gmail.com
 
 <!---
